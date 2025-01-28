@@ -1,0 +1,19 @@
+Bom, aqui vou expor um apanhado geral do que vi nesse módulo do bootcamp.
+
+O professor deu um pequeno preview no início do módulo, explicou um pouco sobre deploy.
+Depois fez alguns testes enquanto comentou sobre o quão avançada é essa ferramenta, nos
+alertou sobre a necessidade de verificar sempre o que está sendo gasto dos seus créditos
+visto que isso é um curso para o uso de uma ferramenta paga onde os testes são limitados
+pelas alternativas "gratuitas".
+Mostrou os recursos disponíveis no playground, não explicou como criar recursos passo a passo
+mas imagino que é essa a proposta desse bootcamp, espero sinceramente que nos próximos módulos
+eu consiga executar os desafios.
+Explicou sobre tokenização e as diferenças entre línguas e tipos de dados na tokenização, foi bem
+interessante aprender isso. Creio que o ponto alto desse módulo foi a explicação visual sobre temperatura
+e top-p, multimodalidade e as penalidades.
+
+
+Por enquanto é isso.
+
+
+Obrigado, professor Pablo.
