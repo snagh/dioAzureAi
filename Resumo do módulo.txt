@@ -12,6 +12,7 @@ Explicou sobre tokenização e as diferenças entre línguas e tipos de dados na
 interessante aprender isso. Creio que o ponto alto desse módulo foi a explicação visual sobre temperatura
 e top-p, multimodalidade e as penalidades.
 
+(**EDIT** só incluir aqui que logo no módulo posterior já tem mais esclarecimentos)
 
 Por enquanto é isso.
 
